@@ -4,5 +4,5 @@ This is the first file in the Repo
 ## Ipsum
 Addding ipsum for the first time
 
-### Adding Some more Ipsum
-Adding More Ipsum
+# Introductory para added
+Hello to the git world
